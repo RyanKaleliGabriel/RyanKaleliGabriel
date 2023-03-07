@@ -12,7 +12,7 @@ Contact Me
 Mobile no. 0704383812
 I'm always interested in hearing about new opportunities, connecting with other developers working with me on a data analysis project. Feel free to contact me at kaleligabriel6@gmail.com or connect with me on twitter at iheartgabriel3.
 
-Thanks for taking the time to read about me and my experience as a full-stack web developer. I look forward to hearing from you!
+Thanks for taking the time to read about me. I look forward to hearing from you!
 
 
 
