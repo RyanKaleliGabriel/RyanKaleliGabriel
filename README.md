@@ -10,7 +10,10 @@ My Skills
 
 Contact Me
 Mobile no. 0704383812
-I'm always interested in hearing about new opportunities, connecting with other developers working with me on a data analysis project. Feel free to contact me at kaleligabriel6@gmail.com or connect with me on twitter at iheartgabriel3.
+kaleligabriel6@gmail.com
+twitter at iheartgabriel3.
+
+I'm always interested in hearing about new opportunities, connecting with other developers working with me on a data analysis projects and Web projects. 
 
 Thanks for taking the time to read about me. I look forward to hearing from you!
 
