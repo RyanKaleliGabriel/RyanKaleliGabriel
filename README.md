@@ -5,7 +5,7 @@ Data Analyst.
 
 
 (Backend Development: Node.js, Express, MongoDB, MySQL, Ejs, Mongoose, Flask)
-(Data Analysis Python- Matplotlib, Pandas, Plotly, Numpy, Seaborn) 
+(Data Analysis Python- Matplotlib, Pandas, Plotly, Numpy, Seaborn, SciKit) 
 (Frontend Development: HTML, CSS, JavaScript)
 
 Contact Me
