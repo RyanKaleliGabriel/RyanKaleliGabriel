@@ -2,11 +2,8 @@ Hi, I'm Ryan Gabriel Kaleli
 
 Backend Web Developer.
 Data Analyst.
+Student.
 
-
-(Backend Development: Node.js, Express, MongoDB, MySQL, Ejs, Mongoose, Flask)
-(Data Analysis Python- Matplotlib, Pandas, Plotly, Numpy, Seaborn, SciKit) 
-(Frontend Development: HTML, CSS, JavaScript)
 
 Contact Me
 Mobile no. 0704383812
