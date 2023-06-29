@@ -1,6 +1,5 @@
-Hi, I'm Ryan Gabriel Kaleli
 
-Full Stack Javascript Developer.
+Web Developer. MERN & Laravel
 Student.
 
 
