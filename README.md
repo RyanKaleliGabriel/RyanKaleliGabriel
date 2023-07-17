@@ -1,5 +1,5 @@
 
-Web Developer. MERN & Laravel
+Web Developer. REACT & Laravel
 Student.
 
 
