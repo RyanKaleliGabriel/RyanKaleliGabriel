@@ -1,6 +1,6 @@
 
-Web Developer. REACT & Laravel
-Student.
+Software Engineer. REACT & Laravel
+
 
 
 Contact Me
