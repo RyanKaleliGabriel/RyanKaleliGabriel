@@ -10,12 +10,12 @@ Software Engineer.
 
 
 ## Developer Card and GitHub Trends
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; flex-direction: row;">
     <div>
         <h3>Developer Card</h3>
         <p>Showcase my recent development activity using Daily.dev's Developer Card.</p>
         <a href="https://app.daily.dev/ryangabriel73">
-            <img src="https://api.daily.dev/devcards/fd081077e5ba48a09c69d0b4ac3708e4.png?r=q7w" width="100" alt="Ryan Gabriel's Dev Card"/>
+            <img src="https://api.daily.dev/devcards/fd081077e5ba48a09c69d0b4ac3708e4.png?r=q7w" width="200" alt="Ryan Gabriel's Dev Card"/>
         </a>
     </div>
     <div>
